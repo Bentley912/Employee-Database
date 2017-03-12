@@ -1,6 +1,6 @@
 # Employee-Database
 
-This is another project from my coding bootcamp. This week we were working on Firebase and date persistency. 
+This is another project from my coding bootcamp. This week we were working on Firebase and data persistence. 
 
 Our assignment was to create an employee database that was connected to Firebase and updated in real time. We also were required to use Moment.js to calculate the months worked of each employee. 
 
